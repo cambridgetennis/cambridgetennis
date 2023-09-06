@@ -23,7 +23,7 @@ title: Cambridge/Somerville Tennis
 description: >- # this means to ignore newlines until "baseurl:"
   Cambridge/Somerville Tennis is a group of enthusiastic tennis players who are
   looking to find playing and hitting partners in the area.
-baseurl: "" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
